@@ -1,1 +1,1 @@
-# The-AKG
+# The Arabic Knowledge Graph
